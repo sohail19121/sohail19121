@@ -1,88 +1,152 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:714B67,100:017E84&height=220&section=header&text=Mohd%20Sohail&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20Odoo%2017%E2%80%9320%20%C2%B7%20LLM%20%C2%B7%20RAG%20%C2%B7%20MCP&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mohd Sohail" />
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3200&pause=900&color=714B67&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Mohd+Sohail+%F0%9F%91%8B;Python+%26+Odoo+Developer+(v17%E2%80%9320);LLMs+%C2%B7+RAG+%C2%B7+MCP+Servers+%C2%B7+AI+Agents" alt="Typing intro" />
+<a href="https://www.linkedin.com/in/mohdsohail19121/"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=017E84&center=true&vCenter=true&width=720&lines=I+build+Odoo+applications+and+connect+them+to+AI;Custom+modules+for+Odoo+17+%C2%B7+18+%C2%B7+19+%C2%B7+20;MCP+servers+that+let+Claude+%26+ChatGPT+work+inside+Odoo;LLM+assistants+and+RAG+pipelines+on+company+data" alt="Typing intro" /></a>
 
-**I build Odoo applications and connect them to AI.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohdsohail19121-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohdsohail19121/)
-![Odoo](https://img.shields.io/badge/Odoo-17%20%7C%2018%20%7C%2019%20%7C%2020-714B67?style=for-the-badge&logo=odoo&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<a href="https://www.linkedin.com/in/mohdsohail19121/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Odoo-17%20%C2%B7%2018%20%C2%B7%2019%20%C2%B7%2020-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo 17 to 20" />
+<img src="https://img.shields.io/badge/Open%20to-Odoo%20%26%20AI%20projects-017E84?style=for-the-badge" alt="Open to Odoo and AI projects" />
+<img src="https://komarev.com/ghpvc/?username=sohail19121&color=714B67&style=for-the-badge&label=Profile+views" alt="Profile views" />
 
 </div>
 
----
+<br>
+
+## 👨‍💻 About me
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+I'm a **Python & Odoo developer** working across **Odoo 17, 18, 19 and 20**.
+
+- 🧩 I build **custom Odoo modules** for HR, projects, timesheets, CRM, sales and customer portals.
+- 🤖 I connect Odoo to **LLMs**: chat assistants that answer questions about company data in plain language.
+- 📚 I build **RAG pipelines** that answer from your own documents and cite their sources.
+- 🔌 I build **MCP servers** that let Claude, ChatGPT, Copilot and Cursor read and update Odoo safely.
+- 🔐 I care about AI that **respects permissions** and **logs what it does**.
+
+</td>
+<td width="45%" valign="top">
 
 ```python
 class MohdSohail:
-    role       = "Python & Odoo Developer"
-    odoo       = ["17.0", "18.0", "19.0", "20.0"]
-    builds     = ["Custom Odoo modules", "MCP servers", "LLM assistants", "RAG pipelines"]
-    focus      = "AI features that respect permissions and log what they do"
-    currently  = "Connecting Odoo to Claude, ChatGPT and other AI agents over MCP"
+    role  = "Python & Odoo Developer"
+    odoo  = ["17", "18", "19", "20"]
+    ai    = ["LLM", "RAG", "MCP",
+             "Agents", "Tool calling"]
+    stack = ["Python", "PostgreSQL",
+             "OWL", "QWeb", "JSON-RPC"]
+
+    def build(self):
+        return "Odoo that works with AI"
 ```
 
-## What I work on
+</td>
+</tr>
+</table>
 
-| | |
-|---|---|
-| **Odoo development** | Custom modules for HR, projects, timesheets, CRM, sales and customer portals: ORM models, security rules, controllers, QWeb, OWL and reports. |
-| **LLM & RAG** | Chat assistants that answer questions about company data in plain language, and retrieval pipelines that cite their sources. |
-| **MCP & AI agents** | Model Context Protocol servers that let AI assistants read and update Odoo safely, with OAuth 2.1, scoped API keys, per-user access rules and audit logs. |
-| **Dashboards & forecasting** | Sales, purchase and manufacturing forecasts with Excel exports and charts. |
+## 🚀 What I build
 
-## Featured projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**ai_hr_chatbot**](https://github.com/sohail19121/ai_hr_chatbot) | An AI chatbot that answers HR and employee questions about Odoo data in plain language. | Odoo · LLM · Python |
-| [**Forecasting-Of-Sale-Purchase-Manufacturing**](https://github.com/sohail19121/Forecasting-Of-Sale-Purchase-Manufacturing) | Forecasts for sales, purchasing and manufacturing, with Excel reports and graphs. | Odoo · Python |
-| [**rent_management**](https://github.com/sohail19121/rent_management) | Property rental management: leases, invoices, bills and a dashboard. | Odoo · Python |
-| [**Linkedin-Integration**](https://github.com/sohail19121/Linkedin-Integration) | Shows LinkedIn posts on a website and rewards likes and comments with points that users can redeem for products. | Odoo · Website · Python |
-| [**Crm-Lead-Edit-Form**](https://github.com/sohail19121/Crm-Lead-Edit-Form) | Leads update their own details through a secure link sent by email, with no login needed. | Odoo CRM |
-| [**Sale-Recognition**](https://github.com/sohail19121/Sale-Recognition) | A dashboard that tracks sales growth. | Odoo · Python |
-| [**Face-Recognition**](https://github.com/sohail19121/Face-Recognition) | Face recognition in the browser. | JavaScript |
+### 🧩 Odoo modules
+ORM models, security rules, wizards, controllers, QWeb reports, OWL widgets and website portals, on Odoo 17 through 20, including migrations between versions.
 
-## Tech stack
+</td>
+<td width="50%" valign="top">
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### 🔌 MCP servers & AI agents
+Native Model Context Protocol endpoints inside Odoo, with OAuth 2.1 login, MCP-only API keys, per-user access rules and an audit log of every call.
 
-**Odoo**
-![Odoo 17–20](https://img.shields.io/badge/Odoo-17%E2%80%9320-714B67?style=flat-square&logo=odoo&logoColor=white)
-![OWL](https://img.shields.io/badge/OWL-Framework-875A7B?style=flat-square)
-![QWeb](https://img.shields.io/badge/QWeb-Templates-875A7B?style=flat-square)
-![XML-RPC](https://img.shields.io/badge/XML--RPC%20%2F%20JSON--RPC-555?style=flat-square)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**AI**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Embeddings%20%2B%20Vector%20Search-017E84?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-017E84?style=flat-square)
-![OAuth 2.1](https://img.shields.io/badge/OAuth-2.1-EB5424?style=flat-square)
+### 🤖 LLM assistants
+HR and employee chatbots, AI resume parsing and natural-language queries over ERP data, built on OpenAI, OpenRouter and Claude.
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-## GitHub stats
+### 📊 Dashboards & forecasting
+Sales, purchase and manufacturing forecasts, sales-growth dashboards and Excel / PDF reports.
 
-<div align="center">
+</td>
+</tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sohail19121&show_icons=true&hide_border=true&title_color=714B67&icon_color=017E84&text_color=6A6070&bg_color=00000000" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail19121&layout=compact&hide_border=true&title_color=714B67&text_color=6A6070&bg_color=00000000" alt="Top languages" />
+## 🧠 How my RAG pipelines work
 
-</div>
+```mermaid
+flowchart LR
+    A[📄 Documents<br/>& Odoo records] --> B[✂️ Chunk]
+    B --> C[🔢 Embed]
+    C --> D[(🗄️ Vector store)]
+    Q[❓ User question] --> E[🔢 Embed query]
+    E --> F{🔍 Top-k search<br/>+ access filter}
+    D --> F
+    F --> G[🧾 Prompt with<br/>context]
+    G --> H[🤖 LLM]
+    H --> I[✅ Answer<br/>with sources]
+```
 
----
+## ⭐ Featured projects
 
 <div align="center">
 
-**Open to Odoo projects, AI integrations and MCP / agent development.**
-Reach me on [LinkedIn](https://www.linkedin.com/in/mohdsohail19121/).
+<a href="https://github.com/sohail19121/ai_hr_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=ai_hr_chatbot&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="ai_hr_chatbot" /></a>
+<a href="https://github.com/sohail19121/Forecasting-Of-Sale-Purchase-Manufacturing"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=Forecasting-Of-Sale-Purchase-Manufacturing&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="Forecasting" /></a>
+<a href="https://github.com/sohail19121/Linkedin-Integration"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=Linkedin-Integration&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="Linkedin-Integration" /></a>
+<a href="https://github.com/sohail19121/rent_management"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=rent_management&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="rent_management" /></a>
+<a href="https://github.com/sohail19121/Crm-Lead-Edit-Form"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=Crm-Lead-Edit-Form&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="Crm-Lead-Edit-Form" /></a>
+<a href="https://github.com/sohail19121/Sale-Recognition"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sohail19121&repo=Sale-Recognition&bg_color=00000000&title_color=714B67&icon_color=017E84&text_color=8b949e&border_color=8b949e33&description_lines_count=2" alt="Sale-Recognition" /></a>
 
 </div>
+
+## 🛠️ Tech stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,postgres,html,css,git,github,linux,vscode&perline=9" alt="Tech icons" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Odoo%2017--20-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/OWL-875A7B?style=for-the-badge" alt="OWL" />
+<img src="https://img.shields.io/badge/QWeb-875A7B?style=for-the-badge" alt="QWeb" />
+<img src="https://img.shields.io/badge/JSON--RPC%20%C2%B7%20XML--RPC-555555?style=for-the-badge" alt="RPC" />
+<img src="https://img.shields.io/badge/OAuth%202.1-EB5424?style=for-the-badge&logo=auth0&logoColor=white" alt="OAuth 2.1" />
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/RAG-017E84?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Embeddings%20%C2%B7%20Vector%20Search-017E84?style=for-the-badge" alt="Embeddings" />
+<img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-1f2328?style=for-the-badge" alt="MCP" />
+
+</div>
+
+## 📈 GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail19121&layout=donut&langs_count=6&hide_border=true&bg_color=00000000&title_color=714B67&text_color=8b949e" alt="Top languages" />
+<img height="170" src="https://streak-stats.demolab.com?user=sohail19121&hide_border=true&background=00000000&ring=714B67&fire=017E84&currStreakLabel=714B67&sideLabels=8b949e&dates=8b949e&currStreakNum=8b949e&sideNums=8b949e" alt="Contribution streak" />
+
+</div>
+
+## 🤝 Let's work together
+
+<div align="center">
+
+I'm open to **Odoo projects**, **LLM & RAG integrations** and **MCP / AI agent development**.
+
+<a href="https://www.linkedin.com/in/mohdsohail19121/"><img src="https://img.shields.io/badge/Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Message me on LinkedIn" /></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:017E84,100:714B67&height=120&section=footer" width="100%" alt="" />
